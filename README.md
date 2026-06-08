@@ -1,8 +1,8 @@
 ## Hi there 👋
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kingenious0&theme=tokyonight)](https://git.io/streak-stats)
 <!--
 **kingenious0/kingenious0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kingenious0&theme=tokyonight)](https://git.io/streak-stats)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
