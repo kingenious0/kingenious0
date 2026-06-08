@@ -5,7 +5,7 @@ Lead Full-Stack Developer & AI Orchestrator specializing in rapid architectural 
 ### 📊 My GitHub Streak Stats
 <p align="left">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingenious0&theme=tokyonight&cache=1" alt="GitHub Streak" width="65%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingenious0&theme=tokyonight&cache_bust=20260608" alt="GitHub Streak" width="65%" />
   </a>
 </p>
 
