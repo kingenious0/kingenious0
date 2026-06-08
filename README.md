@@ -3,7 +3,11 @@
 Lead Full-Stack Developer & AI Orchestrator specializing in rapid architectural deployment and agentic AI engineering workflows.
 
 ### 📊 My GitHub Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kingenious0&theme=tokyonight)](https://git.io/streak-stats)
+<p align="left">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingenious0&theme=tokyonight" alt="GitHub Streak" width="65%" />
+  </a>
+</p>
 
 ---
 
